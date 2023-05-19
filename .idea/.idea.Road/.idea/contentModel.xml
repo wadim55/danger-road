@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\MyWork\UNITY\Unity projects\Road" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Arcade Vehicle Physics" t="Include">
+          <e p="Audios" t="Include" />
+          <e p="Demo Scene" t="Include" />
+          <e p="Documentation" t="Include" />
+          <e p="Editor" t="Include">
+            <e p="ArcadeVehicleCreator.cs" t="Include" />
+          </e>
+          <e p="Materials" t="Include" />
+          <e p="Prefabs" t="Include" />
+          <e p="Project Settings" t="Include" />
+          <e p="Scripts" t="Include">
+            <e p="ArcadeVehicleController.cs" t="Include" />
+            <e p="SkidMarks.cs" t="Include" />
+          </e>
+          <e p="Textures" t="Include" />
+        </e>
+        <e p="Changer.cs" t="Include" />
+        <e p="InitCar.cs" t="Include" />
+        <e p="Scenes" t="Include" />
+        <e p="Super Cars Collection Pack" t="Include">
+          <e p="Materials" t="Include" />
+          <e p="Meshes" t="Include">
+            <e p="Cars" t="Include">
+              <e p="Betty" t="Include" />
+              <e p="Firewall" t="Include" />
+              <e p="Gazelle" t="Include" />
+              <e p="Iron_Arrow" t="Include" />
+              <e p="Italian_Bull" t="Include" />
+              <e p="Ragnarok" t="Include" />
+              <e p="Red_Horse" t="Include" />
+              <e p="Silver_Wings" t="Include" />
+            </e>
+          </e>
+          <e p="Other" t="Include" />
+          <e p="Prefabs" t="Include">
+            <e p="Betty" t="Include" />
+            <e p="Firewall" t="Include" />
+            <e p="Gazelle" t="Include" />
+            <e p="Iron Arrow" t="Include" />
+            <e p="Italian Bull" t="Include" />
+            <e p="Ragnarok" t="Include" />
+            <e p="Red Horse" t="Include" />
+            <e p="Silver Wings" t="Include" />
+          </e>
+          <e p="Prefabs With Colliders)" t="Include">
+            <e p="Betty" t="Include" />
+            <e p="Firewall" t="Include" />
+            <e p="Gazelle" t="Include" />
+            <e p="Iron Arrow" t="Include" />
+            <e p="Italian Bull" t="Include" />
+            <e p="Ragnarok" t="Include" />
+            <e p="Red Horse" t="Include" />
+            <e p="Silver Wings" t="Include" />
+          </e>
+          <e p="Scenes" t="Include">
+            <e p="Post Processing Profile" t="Include" />
+          </e>
+          <e p="Textures" t="Include" />
+        </e>
+        <e p="SxriptableObjects" t="Include">
+          <e p="Item.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Road.sln" t="IncludeFlat" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\korki\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\korki\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Road.-992540032.00" t="ExcludeRecursive" />
+  </component>
+</project>

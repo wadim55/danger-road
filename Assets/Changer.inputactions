@@ -1,0 +1,125 @@
+{
+    "name": "Changer",
+    "maps": [
+        {
+            "name": "ChangerCar",
+            "id": "7f9c9726-747a-43e2-b9c6-795a8082b713",
+            "actions": [
+                {
+                    "name": "audi",
+                    "type": "Button",
+                    "id": "be65c3b6-fef0-4245-b975-e5400dc295e9",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "volvo",
+                    "type": "Value",
+                    "id": "0ac6e1d1-2467-4f8d-857f-844d0c082e98",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "Press",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "Lada",
+                    "type": "Button",
+                    "id": "8bb207ff-e5f7-444b-998e-9fdc7d1f74c2",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Honda",
+                    "type": "Button",
+                    "id": "4e4d9326-bde8-4664-8d9b-503bca92a8e4",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Toyota",
+                    "type": "Button",
+                    "id": "d6d09470-d30d-4737-85b5-30334502219b",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "75ecdf17-bd48-4848-98b5-24238aa33126",
+                    "path": "<Keyboard>/3",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Honda",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "323c51e3-202d-4b65-a106-0f6090381dcd",
+                    "path": "<Keyboard>/0",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "audi",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c174f0e4-9bb4-4185-bcc4-d11bdb36e351",
+                    "path": "<Mouse>/rightButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "audi",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "b1ee3cd6-429c-4297-bcf9-8df2bdaa973d",
+                    "path": "<Keyboard>/1",
+                    "interactions": "Press",
+                    "processors": "",
+                    "groups": "",
+                    "action": "volvo",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "bd3cb867-9a86-49cd-81a4-f1cef395ab35",
+                    "path": "<Keyboard>/2",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Lada",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "745a0e87-2e40-416b-b511-4c1cc800dcc5",
+                    "path": "<Keyboard>/4",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Toyota",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

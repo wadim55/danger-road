@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 815ce0693cc69f34da332c46e7184d3b, type: 3}
+  m_Name: honda
+  m_EditorClassIdentifier: 
+  model: Honda
+  bodyCar: {fileID: 2959467708922500008, guid: 6f004ebe4e47793489c058b53a6d443b, type: 3}
+  FLW: {fileID: 1802275948663407955, guid: 0c277f29faf41b746857908ede297614, type: 3}
+  FRW: {fileID: 5999737711800896584, guid: 5e6b5dfac0aec1645b410a20e8a908de, type: 3}
+  BLW: {fileID: 4116222287316155898, guid: ad80dd38217d20d4b9375ac2c9a0318e, type: 3}
+  BRW: {fileID: -4586054145608978977, guid: 6f004ebe4e47793489c058b53a6d443b, type: 3}
+  bodyMaterial: {fileID: 2100000, guid: ebc78dfb03a083b4ba8f04bf0d6f3c4e, type: 2}
+  lightMaterial: {fileID: 2100000, guid: 991eaa6d8f838c843ab064a9d6ac3b44, type: 2}
+  whileMaterial: {fileID: 2100000, guid: 790d4378fdf915a40ae14e285bae75b0, type: 2}
